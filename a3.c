@@ -1,3 +1,5 @@
+//to get the array elements with for loop
+
 #include<stdio.h>
 void main(){
     int carr[4];
