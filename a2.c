@@ -1,3 +1,5 @@
+//difference between &arr and arr to print address 
+
 #include <stdio.h>
 int main() {
     int iarr[5]={10,20,30,40,50};
